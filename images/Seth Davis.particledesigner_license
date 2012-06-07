@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Product</key>
+	<string>Particle Designer</string>
+	<key>Name</key>
+	<string>Seth Davis</string>
+	<key>Email</key>
+	<string>evertith@gmail.com</string>
+	<key>Licenses</key>
+	<string>7.99</string>
+	<key>Timestamp</key>
+	<string>2012-03-20 19:46:23</string>
+	<key>TransactionID</key>
+	<string>2SL29708MU557824G</string>
+	<key>Signature</key>
+	<data>gQP5C0JX3nb3pYtsC8JsPGpnYt2MROSaY+4w8uvahv8aeGg5bQPNvEcNxYkdqs7cyPUmsdzmR0qW
+KclRxjXv6Txqxkz9n2FUw6mYYTLRYrlriGlQH5CBGPo4cRbKMzIohI+9xnnoDAzsxqSwXO6BEF1X
+7ijYauQDezDHyjrcQbY=
+</data>
+</dict>
+</plist>
