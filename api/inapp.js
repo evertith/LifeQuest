@@ -1,5 +1,5 @@
 var Storekit = require('ti.storekit');
- 
+// test
 /*
  Now let's define a couple utility functions. We'll use these throughout the app.
  */
